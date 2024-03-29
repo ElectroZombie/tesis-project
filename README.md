@@ -1,16 +1,55 @@
-# flutter_application_14
+# LisTesis
 
-A new Flutter project.
+Una aplicación móvil para gestiones trabajos de diploma y otras investigaciones
 
-## Getting Started
+v...
 
-This project is a starting point for a Flutter application.
+Autores:
+=
+Eric Michel Villavicencio Reyes (https://github.com/ElectroZombie)
 
-A few resources to get you started if this is your first Flutter project:
+Joan Manuel Molina Gómez (https://github.com/JoanManuel16)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Especificaciones del proyecto:
+-
+Java Version: 17.0.10+7
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SQLite 3 Version: 3.45.1
+
+Dart SDK: 3.1.0
+
+Construido con:
+-
+Flutter SDK: 3.13.0
+ 
+Android SDK: 31.0.0
+
+Code-OSS: 1.86.0
+
+------------------------------------------------------------------
+
+A mobile application to manage diploma work and other research
+
+v...
+
+Authors:
+=
+Eric Michel Villavicencio Reyes (https://github.com/ElectroZombie)
+
+Joan Manuel Molina Gómez (https://github.com/JoanManuel16)
+
+Buildig Specs:
+-
+Java Version: 17.0.10+7
+
+SQLite 3 Version: 3.45.1
+
+Dart SDK: 3.1.0
+
+Built on:
+-
+Flutter SDK: 3.13.0
+ 
+Android SDK: 31.0.0
+
+Code-OSS: 1.86.0
